@@ -1,6 +1,8 @@
 # hubot-portatext
 
-Hubot integration with PortaText. Easily send SMS messages from your hubot :)
+[Hubot](https://github.com/github/hubot) integration with [PortaText](https://www.portatext.com/).
+
+Easily send SMS messages from your hubot :)
 
 ## Installation
  * Grab the [portatext.coffee](https://github.com/PortaText/hubot-portatext/blob/master/portatext.coffee) file and drop it
