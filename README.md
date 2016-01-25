@@ -4,7 +4,7 @@
 
 [Hubot](https://github.com/github/hubot) integration with [PortaText](https://www.portatext.com/).
 
-Easily send SMS messages from your hubot :)
+Easily send SMS messages from your hubot :) There's a [blog post](http://blog.portatext.com/2016/01/25/now-you-can-send-sms-from-hubot/) discussing this idea.
 
 ## Installation
  * Grab the [portatext.coffee](https://github.com/PortaText/hubot-portatext/blob/master/portatext.coffee) file and drop it
@@ -13,7 +13,6 @@ in the `scripts` directory of your hubot.
 
  ```json
  "dependencies": {
-    ...
     "portatext": "1.0.7"
  }
  ```
