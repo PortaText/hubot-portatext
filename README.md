@@ -1,3 +1,5 @@
+[![License](http://img.shields.io/badge/license-APACHE2-blue.svg)](http://img.shields.io/badge/license-APACHE2-blue.svg)
+
 # hubot-portatext
 
 [Hubot](https://github.com/github/hubot) integration with [PortaText](https://www.portatext.com/).
@@ -33,3 +35,8 @@ in the `scripts` directory of your hubot.
 ```
   hubot sms john Hey dude, make sure you bring enough coffe -- script!
 ```
+
+# License
+The source code is released under Apache 2 License.
+
+Check [LICENSE](https://github.com/PortaText/node-sdk/blob/master/LICENSE) file for more information.
