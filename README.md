@@ -35,6 +35,24 @@ in the `scripts` directory of your hubot.
   hubot sms john Hey dude, make sure you bring enough coffe -- script!
 ```
 
+### Create, list, and delete contact lists (groups)
+```
+  hubot sms_group create mygroup this is the group description
+  hubot sms_group list
+  hubot sms_group delete mygroup
+```
+
+### Add and remove contacts from contact lists
+```
+  hubot sms_group add 12223334444 to mygroup
+  hubot sms_group remove 12223334444 from mygroup
+```
+
+### Send a message to a contact list
+```
+  hubot sms_group send to mygroup this is the message!
+```
+
 # License
 The source code is released under Apache 2 License.
 
